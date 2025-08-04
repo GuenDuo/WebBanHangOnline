@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5A0638F-85F3-4F9F-A9A6-88309A25FF67}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\admin\\onedrive - cmc university\\documents\\filecode\\webbanhangonline\\webbanhangonline\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0638F-85F3-4F9F-A9A6-88309A25FF67}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\viewmodels\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5A0638F-85F3-4F9F-A9A6-88309A25FF67}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\admin\\onedrive - cmc university\\documents\\filecode\\webbanhangonline\\webbanhangonline\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A0638F-85F3-4F9F-A9A6-88309A25FF67}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\ViewModels\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\ViewModels\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\ViewModels\\AccountViewModels.cs",
+              "RelativeToolTip": "WebBanHangOnline\\ViewModels\\AccountViewModels.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:16:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Dockerfile",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Dockerfile",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "WebBanHangOnline\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-03T08:49:40.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T08:49:40.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\appsettings.json",
               "RelativeDocumentMoniker": "WebBanHangOnline\\appsettings.json",
@@ -87,12 +103,11 @@
               "RelativeToolTip": "WebBanHangOnline\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-03T08:49:38.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T08:49:38.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Data\\ApplicationDbContext.cs",
@@ -100,25 +115,24 @@
               "RelativeToolTip": "WebBanHangOnline\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T08:49:35.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T08:49:35.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Data\\SeedData.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Data\\SeedData.cs",
               "RelativeToolTip": "WebBanHangOnline\\Data\\SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAASAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T08:40:38.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminCategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
@@ -126,12 +140,11 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T17:18:33.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T17:18:33.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
@@ -143,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WebBanHangOnline.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\WebBanHangOnline.csproj",
               "RelativeDocumentMoniker": "WebBanHangOnline\\WebBanHangOnline.csproj",
@@ -155,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AdminProductController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminProductController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminProductController.cs",
@@ -167,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AdminController.cs",
@@ -179,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - CMC University\\Documents\\FileCode\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ProductController.cs",
